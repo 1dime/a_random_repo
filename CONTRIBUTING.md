@@ -1,5 +1,7 @@
 # Contributing to a_random_repo
 Thank you for contributing to this repository! Your contributions will help improve this project and its end goal!
+Contributers: 
+       Kendall Callison
 
 # Getting started
 There are a few things to remember when contributing to this project:
